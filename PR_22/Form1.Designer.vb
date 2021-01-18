@@ -22,6 +22,7 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.LabelNumber = New System.Windows.Forms.Label()
         Me.LabelResult = New System.Windows.Forms.Label()
         Me.TextBoxNumber = New System.Windows.Forms.TextBox()
@@ -86,6 +87,7 @@ Partial Class Form1
         Me.Controls.Add(Me.TextBoxNumber)
         Me.Controls.Add(Me.LabelResult)
         Me.Controls.Add(Me.LabelNumber)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form1"
         Me.Text = "Перевірка"
         Me.ResumeLayout(False)
