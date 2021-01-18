@@ -6,7 +6,7 @@
         C = TextBox_Number.Text
 
         If C >= A And C <= B Then
-            TextBox_Result.Text = "да"
+            TextBox_Result.Text = "да!"
         Else
             TextBox_Result.Text = "нет"
 
