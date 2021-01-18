@@ -8,7 +8,7 @@
         If C >= A And C <= B Then
             TextBox_Result.Text = "да!"
         Else
-            TextBox_Result.Text = "нет"
+            TextBox_Result.Text = "нет!!!"
 
         End If
 
