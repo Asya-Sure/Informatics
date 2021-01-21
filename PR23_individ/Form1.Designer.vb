@@ -52,7 +52,7 @@ Partial Class Form1
         '
         'TextBoxMore
         '
-        Me.TextBoxMore.Location = New System.Drawing.Point(203, 133)
+        Me.TextBoxMore.Location = New System.Drawing.Point(206, 174)
         Me.TextBoxMore.Name = "TextBoxMore"
         Me.TextBoxMore.Size = New System.Drawing.Size(142, 23)
         Me.TextBoxMore.TabIndex = 15
@@ -71,7 +71,7 @@ Partial Class Form1
         '
         Me.Label2.AutoSize = True
         Me.Label2.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label2.Location = New System.Drawing.Point(109, 135)
+        Me.Label2.Location = New System.Drawing.Point(104, 173)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(88, 21)
         Me.Label2.TabIndex = 13
@@ -91,7 +91,7 @@ Partial Class Form1
         '
         Me.Label4.AutoSize = True
         Me.Label4.Font = New System.Drawing.Font("Times New Roman", 14.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
-        Me.Label4.Location = New System.Drawing.Point(109, 176)
+        Me.Label4.Location = New System.Drawing.Point(101, 133)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(91, 21)
         Me.Label4.TabIndex = 18
@@ -99,7 +99,7 @@ Partial Class Form1
         '
         'TextBoxLess
         '
-        Me.TextBoxLess.Location = New System.Drawing.Point(206, 174)
+        Me.TextBoxLess.Location = New System.Drawing.Point(206, 133)
         Me.TextBoxLess.Name = "TextBoxLess"
         Me.TextBoxLess.Size = New System.Drawing.Size(142, 23)
         Me.TextBoxLess.TabIndex = 19
