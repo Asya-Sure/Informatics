@@ -44,9 +44,9 @@ Partial Class Form1
         Me.Label2.AutoSize = True
         Me.Label2.Location = New System.Drawing.Point(58, 116)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(106, 15)
+        Me.Label2.Size = New System.Drawing.Size(99, 15)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Елелмент з МАС -"
+        Me.Label2.Text = "Елемент з МАС -"
         '
         'TextBoxMinus
         '
@@ -69,9 +69,9 @@ Partial Class Form1
         Me.Label3.AutoSize = True
         Me.Label3.Location = New System.Drawing.Point(58, 181)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(109, 15)
+        Me.Label3.Size = New System.Drawing.Size(102, 15)
         Me.Label3.TabIndex = 4
-        Me.Label3.Text = "Елелмент з МАС +"
+        Me.Label3.Text = "Елемент з МАС +"
         '
         'TextBoxPlas
         '
